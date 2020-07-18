@@ -1,0 +1,10 @@
+Training data (142, 100, 88)
+Validation data (31, 100, 88)
+Test data (31, 100, 88)
+Training time: 0:00:22,941045
+Training loss 0,4349895119667053
+Validation loss 0,4813550114631653
+Validacao Mean absolute deviation: 0,08856800173605642
+Validacao RMS deviation: 0,17089577616508045
+Test Mean absolute deviation: 0,07056025811379955
+Test RMS deviation: 0,15652890138818462

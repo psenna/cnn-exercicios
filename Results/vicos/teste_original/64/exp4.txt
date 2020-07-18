@@ -1,0 +1,13 @@
+(90, 240, 117) correct sequences
+(90, 1) correct labels
+(90, 240, 117) incorrect sequences
+(90, 1) incorrect labels
+(124, 240, 117) training data
+(124,) training labels
+(56, 240, 117) validation data
+(56,) validation labels
+Training time: 0:02:50.773926
+Training loss 0,30299973487854004
+Validation loss 0,2952561378479004
+Mean absolute deviation: 0,010751118652479985
+RMS deviation: 0,016627086968826577
